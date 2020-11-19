@@ -20,7 +20,7 @@ import traceback
 import time
 import random
 
-api_id =  2466738 enter here api_id
+api_id =  2466738  # enter here api_id
 api_hash = 'dbe280a8b289ecc1755a2d400917fa42' #Enter here api_hash id
 phone = '+1 (312) 702-2952'          #enter here phone number with country code
 client = TelegramClient(phone, api_id, api_hash)
